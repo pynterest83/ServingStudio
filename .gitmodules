@@ -1,7 +1,7 @@
 [submodule "ServingStudioSim"]
 	path = ServingStudioSim
-	url = https://github.com/SyFI-ServingStudio/ServingStudioSim.git
-	branch = main
+	url = https://github.com/pynterest83/ServingStudioSim.git
+	branch = h200-host-vllm-profile-env
 [submodule "ServingStudioAgent"]
 	path = ServingStudioAgent
 	url = https://github.com/SyFI-ServingStudio/ServingStudioAgent.git
